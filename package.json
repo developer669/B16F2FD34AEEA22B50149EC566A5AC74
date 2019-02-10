@@ -1,0 +1,15 @@
+{
+  "name": "system-app",
+  "version": "1.0.0",
+  "description": "demo for omnisys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eldar Peisakhov",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
